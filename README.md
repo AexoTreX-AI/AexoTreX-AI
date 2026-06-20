@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/AexoTreX-AI-Logo.png" alt="AexoTreX AI Logo" width="260"/>
+<img src="./assets/AexoTreX-AI-Logo.png" alt="AexoTreX AI Logo" width="100%" style="max-height:260px; object-fit:contain;"/>
 
 # **AexoTreX AI**
 
@@ -44,9 +44,9 @@
 
 ## **About**
 
-**AexoTreX AI** is focused on developing intelligent systems capable of understanding problems, reasoning through complexity, and delivering meaningful solutions through software, automation, and advanced computing.
+**AexoTreX AI** is focused on developing intelligent systems capable of understanding problems, reasoning through complexity, and delivering meaningful solutions through software, automation, and [...]
 
-The ecosystem spans artificial general intelligence, artificial intelligence, operating systems, automation, software engineering, cybersecurity, gaming technologies, research, and intelligent infrastructure.
+The ecosystem spans artificial general intelligence, artificial intelligence, operating systems, automation, software engineering, cybersecurity, gaming technologies, research, and intelligent inf[...]
 
 Every initiative is driven by a common objective:
 
@@ -89,7 +89,7 @@ The long-term direction centers on technologies capable of:
 
 ### **[Autonomous Artificial General Intelligence](#)**
 
-*An autonomous intelligence platform designed around reasoning, memory, planning, execution, and adaptive decision-making. Built to understand objectives, coordinate actions, utilize tools, and solve increasingly complex problems across digital environments.*
+*An autonomous intelligence platform designed around reasoning, memory, planning, execution, and adaptive decision-making. Built to understand objectives, coordinate actions, utilize tools, and so[...]*
 
 **Status:** `Private`
 
@@ -99,7 +99,7 @@ The long-term direction centers on technologies capable of:
 
 ### **[AexoTreX OS](#)**
 
-*An AI-native operating environment designed to integrate intelligence directly into the computing experience. Focused on intelligent workflows, system awareness, persistent memory, software orchestration, and autonomous execution across the operating environment.*
+*An AI-native operating environment designed to integrate intelligence directly into the computing experience. Focused on intelligent workflows, system awareness, persistent memory, software orch[...]*
 
 **Status:** `Private`
 
@@ -109,7 +109,7 @@ The long-term direction centers on technologies capable of:
 
 ### **[Vocaria AI](#)**
 
-*An advanced speech and audio intelligence platform focused on natural interaction, expressive synthesis, voice generation, real-time communication, and next-generation conversational experiences.*
+*An advanced speech and audio intelligence platform focused on natural interaction, expressive synthesis, voice generation, real-time communication, and next-generation conversational experiences[...]*
 
 **Status:** `Private`
 
@@ -119,7 +119,7 @@ The long-term direction centers on technologies capable of:
 
 ### **[Drona AI](#)**
 
-*An adaptive intelligence platform built for assessment, cognitive understanding, personalized learning, and educational guidance. Designed to continuously improve learning experiences through intelligent evaluation, adaptation, and long-term progression.*
+*An adaptive intelligence platform built for assessment, cognitive understanding, personalized learning, and educational guidance. Designed to continuously improve learning experiences through in[...]*
 
 **Status:** `Private`
 
@@ -129,7 +129,7 @@ The long-term direction centers on technologies capable of:
 
 ### **[QuantVision AI](#)**
 
-*A predictive intelligence platform focused on forecasting, analytical modeling, trend discovery, and decision-support systems. Built to transform complex datasets into actionable intelligence and strategic insights.*
+*A predictive intelligence platform focused on forecasting, analytical modeling, trend discovery, and decision-support systems. Built to transform complex datasets into actionable intelligence an[...]*
 
 **Status:** `Private`
 
