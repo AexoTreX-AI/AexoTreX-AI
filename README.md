@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/AexoTreX-AI-Logo.png" alt="AexoTreX AI Logo" width="100%" style="max-height:260px; object-fit:contain;"/>
-
-# **AexoTreX AI**
+<img src="./assets/AexoTreX-AI.png" alt="AexoTreX AI Banner" />
 
 ### *Lead the Next Generation of Artificial General Intelligence*
 
@@ -44,9 +42,9 @@
 
 ## **About**
 
-**AexoTreX AI** is focused on developing intelligent systems capable of understanding problems, reasoning through complexity, and delivering meaningful solutions through software, automation, and [...]
+**AexoTreX AI** is focused on developing intelligent systems capable of understanding problems, reasoning through complexity, and delivering meaningful solutions through software, automation, and advanced computing.
 
-The ecosystem spans artificial general intelligence, artificial intelligence, operating systems, automation, software engineering, cybersecurity, gaming technologies, research, and intelligent inf[...]
+The ecosystem spans artificial general intelligence, artificial intelligence, operating systems, automation, software engineering, cybersecurity, gaming technologies, research, and intelligent infrastructure.
 
 Every initiative is driven by a common objective:
 
@@ -71,25 +69,24 @@ The long-term direction centers on technologies capable of:
 
 ## **Core Domains**
 
-| Domain                              | Focus                                                 |
-| ----------------------------------- | ----------------------------------------------------- |
+| Domain | Focus |
+|----------|----------|
 | **Artificial General Intelligence** | Reasoning, planning, memory, and autonomous execution |
-| **Artificial Intelligence**         | Intelligent systems and machine learning              |
-| **Operating Systems**               | AI-native and intelligent computing environments      |
-| **Automation**                      | Autonomous workflows and task execution               |
-| **Software Engineering**            | Applications, platforms, and infrastructure           |
-| **Cybersecurity**                   | Security analysis, resilience, and protection         |
-| **Gaming Technologies**             | Interactive systems and intelligent experiences       |
-| **Research & Innovation**           | Experimental architectures and advanced concepts      |
-| **Intelligent Infrastructure**      | Platforms, tooling, and system foundations            |
+| **Artificial Intelligence** | Intelligent systems and machine learning |
+| **Operating Systems** | AI-native and intelligent computing environments |
+| **Automation** | Autonomous workflows and task execution |
+| **Software Engineering** | Applications, platforms, and infrastructure |
+| **Cybersecurity** | Security analysis, resilience, and protection |
+| **Gaming Technologies** | Interactive systems and intelligent experiences |
+| **Research & Innovation** | Experimental architectures and advanced concepts |
+| **Intelligent Infrastructure** | Platforms, tooling, and system foundations |
 
 ---
 
 ## **Flagship Initiatives**
 
 ### **[Autonomous Artificial General Intelligence](#)**
-
-*An autonomous intelligence platform designed around reasoning, memory, planning, execution, and adaptive decision-making. Built to understand objectives, coordinate actions, utilize tools, and so[...]*
+*An autonomous intelligence platform designed around reasoning, memory, planning, execution, and adaptive decision-making. Built to understand objectives, coordinate actions, utilize tools, and solve increasingly complex problems across digital environments.*
 
 **Status:** `Private`
 
@@ -98,8 +95,7 @@ The long-term direction centers on technologies capable of:
 ---
 
 ### **[AexoTreX OS](#)**
-
-*An AI-native operating environment designed to integrate intelligence directly into the computing experience. Focused on intelligent workflows, system awareness, persistent memory, software orch[...]*
+*An AI-native operating environment designed to integrate intelligence directly into the computing experience. Focused on intelligent workflows, system awareness, persistent memory, software orchestration, and autonomous execution across the operating environment.*
 
 **Status:** `Private`
 
@@ -108,8 +104,7 @@ The long-term direction centers on technologies capable of:
 ---
 
 ### **[Vocaria AI](#)**
-
-*An advanced speech and audio intelligence platform focused on natural interaction, expressive synthesis, voice generation, real-time communication, and next-generation conversational experiences[...]*
+*An advanced speech and audio intelligence platform focused on natural interaction, expressive synthesis, voice generation, real-time communication, and next-generation conversational experiences.*
 
 **Status:** `Private`
 
@@ -118,8 +113,7 @@ The long-term direction centers on technologies capable of:
 ---
 
 ### **[Drona AI](#)**
-
-*An adaptive intelligence platform built for assessment, cognitive understanding, personalized learning, and educational guidance. Designed to continuously improve learning experiences through in[...]*
+*An adaptive intelligence platform built for assessment, cognitive understanding, personalized learning, and educational guidance. Designed to continuously improve learning experiences through intelligent evaluation, adaptation, and long-term progression.*
 
 **Status:** `Private`
 
@@ -128,8 +122,7 @@ The long-term direction centers on technologies capable of:
 ---
 
 ### **[QuantVision AI](#)**
-
-*A predictive intelligence platform focused on forecasting, analytical modeling, trend discovery, and decision-support systems. Built to transform complex datasets into actionable intelligence an[...]*
+*A predictive intelligence platform focused on forecasting, analytical modeling, trend discovery, and decision-support systems. Built to transform complex datasets into actionable intelligence and strategic insights.*
 
 **Status:** `Private`
 
@@ -157,22 +150,6 @@ The long-term direction centers on technologies capable of:
 <img src="https://skillicons.dev/icons?i=python,typescript,cpp,cs,rust,go,pytorch,docker,linux,postgres,redis" />
 
 </p>
-
----
-
-## **Repository Highlights**
-
-* Artificial General Intelligence
-* Artificial Intelligence
-* Operating Systems
-* Intelligent Automation
-* Software Engineering
-* Cybersecurity
-* Gaming Technologies
-* Research & Innovation
-* Intelligent Infrastructure
-
----
 
 <div align="center">
 
