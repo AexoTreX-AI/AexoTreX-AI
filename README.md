@@ -106,9 +106,9 @@ The long-term direction centers on technologies capable of:
 ### **[Vocaria AI](#)**
 *An advanced speech and audio intelligence platform focused on natural interaction, expressive synthesis, voice generation, real-time communication, and next-generation conversational experiences.*
 
-**Status:** `Private`
+**Status:** `Public`
 
-[![Visit Project](https://img.shields.io/badge/Visit_Project-→-black?style=for-the-badge)](#)
+[![Visit Project](https://img.shields.io/badge/Visit_Project-→-black?style=for-the-badge)](https://vocaria-ai.vercel.app/) **https://vocaria-ai.vercel.app/**
 
 ---
 
@@ -117,7 +117,7 @@ The long-term direction centers on technologies capable of:
 
 **Status:** `Private`
 
-[![Visit Project](https://img.shields.io/badge/Visit_Project-→-black?style=for-the-badge)](#)
+[![Visit Project](https://img.shields.io/badge/Visit_Project-→-black?style=for-the-badge)](#) 
 
 ---
 
