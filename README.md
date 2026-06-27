@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/AexoTreX-AI.png" alt="AexoTreX AI Banner" />
+<img src="./assets/AexoTreX-AI-Logo.png" alt="AexoTreX AI Banner" />
 
 ### *Lead the Next Generation of Artificial General Intelligence*
 
